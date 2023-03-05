@@ -8,7 +8,7 @@ We have used a circular graph to showcase the percentage of HTML, CSS, and JavaS
 Graphical Representation
 
 html
-Copy code
+
 <div class="graph">
   <div class="slice html"></div>
   <div class="slice css"></div>
